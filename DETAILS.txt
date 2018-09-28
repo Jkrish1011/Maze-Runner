@@ -1,0 +1,12 @@
+Group Members And Details -
+
+Harshit Pithi (30) harshitpithi1967@gmail.com
+Jayakrishnan Ashok (31) jayakrishnanashok@gmail.com
+
+Instructions for running the Code-
+
+1. Run the main.cpp file using the instruction - " g++ main.cpp -lGL -lGLU -lglut" && "./a.out"
+2. A main window will pop up.
+3.Click on Demo option to view the demo.(Code for this will be automatically compiled and ran)
+4.Click on Play option to Play the Game.(Code for this will be automatically compiled and ran)
+
